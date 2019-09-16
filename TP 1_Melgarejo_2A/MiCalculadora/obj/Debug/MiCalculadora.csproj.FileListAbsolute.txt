@@ -1,0 +1,28 @@
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\TP_1.pdb
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\bin\Debug\TP_1.exe.config
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\TP_1.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\bin\Debug\TP_1.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\MiCalculadora\obj\Debug\MiCalculadora.pdb

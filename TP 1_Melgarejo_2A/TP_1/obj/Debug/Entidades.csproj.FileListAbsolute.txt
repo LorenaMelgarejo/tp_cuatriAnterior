@@ -1,0 +1,13 @@
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\bin\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\bin\Debug\TP_1.pdb
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\obj\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\TPS_Entregar\Melgarejo_Lorena_2A\TP_1\obj\Debug\TP_1.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\bin\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\bin\Debug\TP_1.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\obj\Debug\TP_1.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\TPS_Entregar\TP 1_Melgarejo_2A\TP_1\obj\Debug\TP_1.pdb
