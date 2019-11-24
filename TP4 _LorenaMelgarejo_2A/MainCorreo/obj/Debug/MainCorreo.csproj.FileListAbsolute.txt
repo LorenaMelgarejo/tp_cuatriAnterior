@@ -1,0 +1,68 @@
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\MainCorreo\obj\Debug\MainCorreo.pdb

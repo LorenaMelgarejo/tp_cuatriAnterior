@@ -1,0 +1,33 @@
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\M.M\source\repos\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\Charotti.Michelle.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\clonar\tp_laboratorio_2-1-master\RecuperatoriosTP\MelgarejoLorena.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\RecuperatoriosTP\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PRACTICAS\RecuperatoriosTP2\TP4 el mismo rendido en la cursada\Entidades\obj\Debug\Entidades.pdb
